@@ -38,9 +38,9 @@ int main( )
 		cout << "                ADALVALMYND " << endl << endl;
 		cout << "                      1. Spila NIM" << endl;
 		cout << "                      2. Birta reglurnar i NIM" << endl;
-		cout << "                      3. Haetta " << endl << endl;
+		cout << "                      3. Haetta...en bara ef thu ert viss! " << endl << endl;
 		cout << "                      Veldu 1, 2 eda 3:" << endl << endl;
-		cout << "           Jon Helgi var her            "<<endl<<endl;>
+		cout << "           Jon Helgi var her ... eda var hann?           "<<endl<<endl;>
 		cin >> val;
 		switch ( val )
 		{
